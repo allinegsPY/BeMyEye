@@ -4,7 +4,7 @@ npx expo install expo-image-picker
 
 npm i
 
-#app.json
+# app.json
 {
   "expo": {
     "plugins": [
