@@ -1,8 +1,8 @@
 # BeMyEye
 
-npx expo install expo-image-picker
-
 npm i
+
+npx expo install expo-image-picker
 
 # adicionar ao app.json
 {
